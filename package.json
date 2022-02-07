@@ -1,0 +1,27 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalanametala/shopping-cart-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalanametala/shopping-cart-project/issues"
+  },
+  "homepage": "https://github.com/lalanametala/shopping-cart-project#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "jest": "^27.5.0"
+  }
+}
